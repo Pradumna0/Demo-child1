@@ -1,1 +1,2 @@
 this is demo file which is into the subbmodule child1
+this changes via demo-child1
